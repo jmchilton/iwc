@@ -48,6 +48,6 @@ Everyone is welcome and can help out with reviewing workflows. Post a comment [h
 
 ## License
 
-The infrastructure and code in this repository are available under the [MIT License](LICENSE), unless an explicit license states otherwise.
+All non-workflow content in this repository—including infrastructure, code, automation, scripts, configuration, website content, and documentation—is licensed under the [MIT License](LICENSE).
 
-Contributions made through pull requests are licensed under the MIT License when the pull request or contributed files do not specify another license. An individual pull request, workflow, or other contribution may carry its own license; that explicit license governs the contributed material. Workflow licenses must still meet the IWC contribution requirements.
+Workflows under `workflows/` are also licensed under the MIT License unless they explicitly declare a different license in their workflow metadata or accompanying files. When a workflow declares a different license, that license governs the workflow and its accompanying files. Workflow licenses must still meet the IWC contribution requirements.
