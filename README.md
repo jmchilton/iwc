@@ -45,3 +45,9 @@ If linting passes, tests pass, and human review passes, the PR is merged and
 ## Becoming a IWC member
 
 Everyone is welcome and can help out with reviewing workflows. Post a comment [here](https://github.com/galaxyproject/iwc/issues/4) with your expertise and we will add you to the IWC organization.
+
+## License
+
+The infrastructure and code in this repository are available under the [MIT License](LICENSE), unless an explicit license states otherwise.
+
+Contributions made through pull requests are licensed under the MIT License when the pull request or contributed files do not specify another license. An individual pull request, workflow, or other contribution may carry its own license; that explicit license governs the contributed material. Workflow licenses must still meet the IWC contribution requirements.

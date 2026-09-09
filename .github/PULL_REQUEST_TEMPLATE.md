@@ -2,6 +2,7 @@ FOR CONTRIBUTOR:
 * [ ] I have read the [Adding workflows guidelines](https://github.com/galaxyproject/iwc/blob/main/workflows/README.md#adding-workflows)
 * [ ] I have added myself to the [CODEOWNERS File for the workflow](https://github.com/galaxyproject/iwc/blob/main/.github/CODEOWNERS)
 * [ ] License permits unrestricted use (educational + commercial)
+* [ ] I understand that contributions without an explicit license are licensed under the repository's [MIT License](https://github.com/galaxyproject/iwc/blob/main/LICENSE); an individual pull request or contributed file may specify a different license
 * [ ] Please also take note of the reviewer guidelines below to facilitate a smooth review process.
 
 FOR REVIEWERS:
